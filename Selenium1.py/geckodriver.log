@@ -1,0 +1,163 @@
+1640528028684	geckodriver	INFO	Listening on 127.0.0.1:58624
+1640528031740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58625" "-no-remote" "-profile" "C:\\Users\\MAHESH~1\\AppData\\Local\\Temp\\rust_mozprofileAei0S4"
+1640528032472	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mahesh Sutar\\AppData\\Local\\Temp\\rust_mozprofileAei0S4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58625/devtools/browser/aecfb693-2b27-45cb-82b2-a8fe7bf39c61
+1640528035797	Marionette	INFO	Listening on port 58630
+1640528036121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/A3sS0H_86Eu8poIaUPJJxUQpsgwPL9Z0aaC7WTcRMFE.js line 1 > eval line 6495 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640528316471	Marionette	INFO	Stopped listening on port 58630
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+cal\\Temp\\rust_mozprofileQYlsSd"
+1640528130375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mahesh Sutar\\AppData\\Local\\Temp\\rust_mozprofileQYlsSd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58753/devtools/browser/091153c6-fa8d-4c86-be69-029f1823b2c7
+1640528133328	Marionette	INFO	Listening on port 58758
+1640528133601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640528177417	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1640528177420	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1640528177422	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1640528177424	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1640528300289	Marionette	INFO	Stopped listening on port 58758
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58881" "-no-remote" "-profile" "C:\\Users\\MAHESH~1\\AppData\\Local\\Temp\\rust_mozprofilear485Y"
+1640528221685	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mahesh Sutar\\AppData\\Local\\Temp\\rust_mozprofilear485Y\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:58881/devtools/browser/5bec564c-6882-4c55-afd1-f3062ee82c43
+1640528224863	Marionette	INFO	Listening on port 58888
+1640528224947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/71261af65a564e4717c460154e599480.js?tag=location/location_extension_square_och, line 18: ReferenceError: mys is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9173866185064071&output=html&h=280&slotname=6638633547&adk=1070725093&adf=3806948723&pi=t.ma~as.6638633547&w=360&fwrn=4&fwrnh=100&lmt=1492789911&rafmt=1&psa=0&format=360x280&url=http%3A%2F%2Fdemo.automationtesting.in%2FFileDownload.html&flash=0&fwr=0&rpe=1&resp_fmts=3&wgl=1&dt=1640528233191&bpp=3&bdt=4452&idt=3491&shv=r20211207&mjsv=m202112060101&ptt=9&saldr=aa&abxe=1&prev_fmts=360x280%2C360x280&correlator=6527800465869&frm=20&pv=1&ga_vid=675185690.1640528238&ga_sid=1640528238&ga_hid=1887530136&ga_fc=0&u_tz=330&u_his=1&u_h=720&u_w=1280&u_ah=680&u_aw=1280&u_cd=24&u_sd=1.5&adx=841&ady=1499&biw=1263&bih=595&scr_x=0&scr_y=0&oid=2&pvsid=1302144336795452&pem=507&tmod=273&eae=0&fc=896&brdim=-7%2C-7%2C-7%2C-7%2C1280%2C0%2C1295%2C695%2C1280%2C595&vis=1&rsz=%7C%7CleEbr%7C&abl=CS&pfx=0&fu=128&bc=23&ifi=3&uci=a!3&btvi=3&fsb=1&xpc=JlHekq4Rjz&p=http%3A//demo.automationtesting.in&dtd=4514, line 1: ReferenceError: mys is not defined
+1640528263295	Marionette	INFO	Stopped listening on port 58888
+Marionette threw an error: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no]
+allowAllCerts.disable@chrome://remote/content/marionette/cert.js:55:23
+destroy@chrome://remote/content/shared/webdriver/Session.jsm:202:19
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2162:25
+GeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2662:8
+despatch@chrome://remote/content/marionette/server.js:306:40
+execute@chrome://remote/content/marionette/server.js:279:16
+onPacket/<@chrome://remote/content/marionette/server.js:252:20
+onPacket@chrome://remote/content/marionette/server.js:253:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20
+
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2146: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Mahesh Sutar\AppData\Local\Temp\rust_mozprofilear485Y\protections.sqlite
+1640528448493	geckodriver	INFO	Listening on 127.0.0.1:55880
+1640528451564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55881" "-no-remote" "-profile" "C:\\Users\\MAHESH~1\\AppData\\Local\\Temp\\rust_mozprofileSRXyPn"
+1640528451988	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mahesh Sutar\\AppData\\Local\\Temp\\rust_mozprofileSRXyPn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55881/devtools/browser/21fb3aa2-fd91-4007-8606-6c6c430bed2a
+1640528454947	Marionette	INFO	Listening on port 55886
+1640528455261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1640528539665	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1640528539669	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1640528540910	Marionette	INFO	Stopped listening on port 55886
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640530164244	geckodriver	INFO	Listening on 127.0.0.1:55980
+1640530167322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55981" "-no-remote" "-profile" "C:\\Users\\MAHESH~1\\AppData\\Local\\Temp\\rust_mozprofileaeSZv1"
+1640530167761	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mahesh Sutar\\AppData\\Local\\Temp\\rust_mozprofileaeSZv1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55981/devtools/browser/a74f0f02-ad1a-420e-8db7-f1e7ebb5b3c7
+1640530171116	Marionette	INFO	Listening on port 55988
+1640530171511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/A3sS0H_86Eu8poIaUPJJxUQpsgwPL9Z0aaC7WTcRMFE.js line 1 > eval line 4938 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640530195477	Marionette	INFO	Stopped listening on port 55988
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
